@@ -28,3 +28,5 @@ print(favorite_sports)
 print("elay likes", favorite_sports['elay'])
 del favorite_sports['alisa']
 print(favorite_sports)
+
+# ذخیره کردن غذاهای مورد علاقه دوستانتان در دیکشنری
