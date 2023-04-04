@@ -47,25 +47,32 @@
 # سوال شماره 3
 
 
-students = []
+# students = []
 
-name1 = input("enter student's name:> ")
-students.append(name1)
+# name1 = input("enter student's name:> ")
+# students.append(name1)
 
-name2 = input("enter student's name: ")
-students.append(name2)
+# name2 = input("enter student's name: ")
+# students.append(name2)
 
-name3 = input("enter student's name: ")
-students.append(name3)
+# name3 = input("enter student's name: ")
+# students.append(name3)
 
-name4 = input("enter student's name: ")
-students.append(name4)
+# name4 = input("enter student's name: ")
+# students.append(name4)
 
-name5 = input("enter student's name: ")
-students.append(name5)
+# name5 = input("enter student's name: ")
+# students.append(name5)
+# print("students list :", students)
 
+# print(students[0])
+# print(students[4])
 
-print("students list :", students)
+# name6 = input('enter a name:> ')
+# students.append(name6)
 
-print(students[0])
-print(students[4])
+# print(students)
+# name_to_delete = input('enter a name to delete from list:> ')
+# students.remove(name_to_delete)
+
+# print(students)
