@@ -71,7 +71,7 @@
 #     print("b")
 
 # exercise 3: چرا؟
-for i in range(3):
-    print("a")
-    for j in range(3):
-        print("b")
+# for i in range(3):
+#     print("a")
+#     for j in range(3):
+#         print("b")
