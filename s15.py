@@ -5,7 +5,7 @@
 
 # my_list = ["rock","paper","scissors"]
 # print(random.choice(my_list))
-
+# exercise:
 # تمرین بازی سنگ کاغذ و قیچی پیاده سازی کنید
 
 import turtle
