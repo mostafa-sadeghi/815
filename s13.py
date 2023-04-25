@@ -50,6 +50,22 @@ if
 * * * * * * * * * * 
 '''
 
+# print('* ' * 10)
+# for i in range(10):
+#     print("*", end=" ")
+
+# print()
+
+# i = 0
+# while i < 10:
+#     print("*", end=" ")
+#     i = i + 1
+
+
+
+
+
+
 # exercise 2:
 '''
 * * * * * * * * * * 
